@@ -4,6 +4,6 @@ Repository for "Generative AI in the Software Modeling Classroom: An Experience 
 
 The repository contains the following folders and contents:
 
-* UML-ChatGPT Activity - Handout for the student activity and anonymized marks of students
-* Questionnaire - Questionnaire administered to students after conducting the modeling activity and results
+* UML-ChatGPT Formative assessment - Handout for the student activity and anonymized scores of students in UML diagram class modeling summative assessment
+* Survey - Survey administered to students after conducting the formative assessment and results
 
